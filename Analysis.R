@@ -8,7 +8,3 @@ add_op(a,b)
 mul_op = function (x,y){
   return(x*y)
 }
-
-y = 10
-x = 10
-z = 10
