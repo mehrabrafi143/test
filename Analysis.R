@@ -11,3 +11,4 @@ mul_op = function (x,y){
 
 y = 10
 x = 10
+z = 10
